@@ -1,5 +1,7 @@
 # python-remove-bg-image
 
+In this session I will share how to remove the background on an image using the rembg module in python. You can maximize the following python code
+
 ```python
 #Install the rembg module first
 pip install rembg
